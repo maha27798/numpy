@@ -10,7 +10,7 @@ print(s1.name)'''
 def __init__(self):
      pass'''
 # 2:parameterized constructor
-'''class Student:
+class Student:
  # parameterized constructor
  def __init__(self, name="Maha Fatima", age=20):
         self.name = name
@@ -19,7 +19,7 @@ def __init__(self):
 s1 = Student()
 print(s1.name)
 print(s1.age)
-'''
+
 #ATTRIBUTES AND METHODS
 # object.attribute
 # class.attribute
