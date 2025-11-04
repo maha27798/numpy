@@ -10,7 +10,11 @@ print(s1.name)'''
 def __init__(self):
      pass'''
 # 2:parameterized constructor
+<<<<<<< HEAD
+'''class Student:
+=======
 class Student:
+>>>>>>> 80ab31b44d915f0b3c8ce7e716c347388db104e9
  # parameterized constructor
  def __init__(self, name="Maha Fatima", age=20):
         self.name = name
@@ -19,7 +23,11 @@ class Student:
 s1 = Student()
 print(s1.name)
 print(s1.age)
+<<<<<<< HEAD
+'''
+=======
 
+>>>>>>> 80ab31b44d915f0b3c8ce7e716c347388db104e9
 #ATTRIBUTES AND METHODS
 # object.attribute
 # class.attribute
